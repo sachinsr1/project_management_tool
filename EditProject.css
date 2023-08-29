@@ -1,0 +1,43 @@
+.task-list-container {
+    margin: 20px;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    background-color: #f9f9f9;
+  }
+  
+  
+  .task-item {
+    margin: 10px 0;
+    padding: 10px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    background-color: #fff;
+  }
+  
+  
+  .task-header {
+    font-size: 18px;
+    font-weight: bold;
+  }
+  
+  
+  .task-details {
+    margin-top: 10px;
+  }
+  
+ 
+  .assign-button {
+    margin-top: 10px;
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    padding: 5px 10px;
+    cursor: pointer;
+  }
+  
+ 
+  .assign-button:hover {
+    background-color: #0056b3;
+  }
